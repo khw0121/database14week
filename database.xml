@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE board SYSTEM "bulletin.dtd">
+<board>
+    <name>Database homework</name>
+
+    <article>
+        <title>Database</title>
+        <message>Hello, world</message>
+        <writerID>user1</writerID>
+        <writerName>Admin</writerName>
+        <reply>
+            <message>Hi</message>
+            <writerID>user2</writerID>
+            <writerName>hyunwoo</writerName>
+        </reply>
+        <reply>
+            <message>Hello</message>
+            <writerID>user3</writerID>
+            <writerName>Kang</writerName>
+        </reply>
+    </article>
+
+    <article>
+        <title>Topic 1</title>
+        <message>Program language</message>
+        <writerID>user4</writerID>
+        <writerName>asdf12</writerName>
+        <reply>
+            <message>xml</message>
+            <writerID>user5</writerID>
+            <writerName>sadfsdf12</writerName>
+        </reply>
+        <reply>
+            <message>html</message>
+            <writerID>user6</writerID>
+            <writerName>sadf12</writerName>
+        </reply>
+    </article>
+</board>
